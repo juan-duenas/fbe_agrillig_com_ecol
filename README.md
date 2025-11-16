@@ -3,7 +3,7 @@ README
 
 ## Community data analysis lab
 
-This is a repo that contains materials for a hands on exercise on
+This repo contains materials for a hands on exercise on
 analysis of microbial community data. The materials for this exercise
 were developed by Dr. Juan F. Dueñas in collaboration with Dr. Judith
 Riedo. The lab was part of the Fungal Biology & Ecology course dictated
