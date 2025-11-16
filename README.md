@@ -15,8 +15,7 @@ real experiment. The experiment was performed at AG Rillig, while the
 data went through a bioinformatic process to curate and prepar it for the present exercise. 
 The details of the experiment, final results and the raw data can be found in [Lozano et al. 2024](https://doi.org/10.1111/1462-2920.16549).
 
-If you use this code, data or presentation, please cite Lozano et
-al. 2024.
+If you use this code, data or presentation, please acknowledge the authors and the source publication.
 
 ## Requirements
 
