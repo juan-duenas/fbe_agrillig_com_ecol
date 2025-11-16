@@ -1,8 +1,6 @@
 README
 ================
 
-`{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)`
-
 ## Community data analysis lab
 
 This is a repo that contains materials for a hands on exercise on
@@ -25,16 +23,17 @@ al. 2024.
 
 ## Requirements
 
-A working install of R in each students computer is required to be able
-to work through the scripts. Rstudio is the recommended IDE to manage
-the code and files.
+A working install of `R` in each student's computer is required to be able
+to work through the scripts. I recommend using `Rstudio` to go through the code and files.
 
-The exercise requires package vegan, tidyverse and remotes to be
-installed. These can be installed using the following code:
+In addition, the exercise requires package vegan, tidyverse and remotes to be
+installed. These can be installed running the following code:
 
-\`\`\`{r} pkgs \<- c(“vegan”, “tidyverse”, “remotes”)
+```r 
+pkgs \<- c(“vegan”, “tidyverse”, “remotes”)
 
-install.packages(pkgs) \# install the packages above
+install.packages(pkgs) # install the packages above
 
-remotes::install_github(“jfq3/ggordiplots”) \# install package directly
-from developers’ Github instead of CRAN \`\`\`
+remotes::install_github(“jfq3/ggordiplots”) # this line installs package directly from developers’ Github instead of CRAN 
+
+```
