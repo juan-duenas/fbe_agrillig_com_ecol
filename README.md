@@ -30,7 +30,7 @@ In addition, the exercise requires package vegan, tidyverse and remotes to be
 installed. These can be installed running the following code:
 
 ```r 
-pkgs \<- c(“vegan”, “tidyverse”, “remotes”)
+pkgs <- c(“vegan”, “tidyverse”, “remotes”)
 
 install.packages(pkgs) # install the packages above
 
