@@ -1,0 +1,7 @@
+# Ignore local R logging files and cached data
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
