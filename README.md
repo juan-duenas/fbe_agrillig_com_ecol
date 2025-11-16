@@ -7,7 +7,7 @@ This repo contains materials for a hands on exercise on
 analysis of microbial community data. The materials for this exercise
 were developed by Dr. Juan F. Dueñas in collaboration with Dr. Judith
 Riedo. The lab was part of the Fungal Biology & Ecology course dictated
-by Prof. Dr. Matthias Rillig on the winter Semester of 2022-2024 at the
+by Prof. Dr. Matthias Rillig during the winter semesters of 2022-2024 at the
 Institute for Biology at FU Berlin.
 
 The lab consist of a lecture, and a script that showcases how to analyze microbial community data derived from a
